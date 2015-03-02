@@ -40,6 +40,15 @@
       ignoresPersistentStateOnLaunch = "NO"
       debugDocumentVersioning = "YES"
       allowLocationSimulation = "YES">
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "DC3CEE821215C7EF00D7A786"
+            BuildableName = "ZBarSDK"
+            BlueprintName = "ZBarSDK"
+            ReferencedContainer = "container:zbar.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
